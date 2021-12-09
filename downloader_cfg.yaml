@@ -1,0 +1,13 @@
+method: youtube
+save_dir: ./Videos
+
+# if mode is youtube
+url: ["https://www.youtube.com/watch?v=YH7WYbD2uiU", "https://www.youtube.com/watch?v=sqqsR-VeYrY",
+      "https://www.youtube.com/watch?v=yfp0pyxKIAU", "https://www.youtube.com/watch?v=0UlOohkMZnI&t=85s",
+      "https://www.youtube.com/watch?v=bGd3J4B4-1E", "https://www.youtube.com/watch?v=q8X37YeUwIw",
+      "https://www.youtube.com/watch?v=-nS1oZ_DLq0", "https://www.youtube.com/watch?v=PNwqKoWBkWM",
+      "https://www.youtube.com/watch?v=zsY5tDA7zE0&t=80s"]
+
+
+
+resolution: 360p
